@@ -1,5 +1,5 @@
 # IsMsiExecWorking
-*Let’s face it:* Windows has a special talent for running installations in the shadows while you’re trying to actually get some work done. Instead of playing a guessing game with your CPU usage or waiting for that "Another installation is in progress" error to ruin your day, this utility finally puts a pair of eyes on that elusive msiexec.exe. It’s essentially a "nanny" for your system deployment services. 🧐✨
+*Let’s face it:* Windows has a special talent for running installations in the shadows while you’re trying to actually get some work done. Instead of playing a guessing game with your CPU usage or waiting for that "Another installation is in progress" error to ruin your day, this utility finally puts a pair of eyes on that elusive **msiexec.exe.** It’s essentially a "nanny" for your system deployment services. 🧐✨
 
 IsMsiExecWorking is a program that shows the System Tray whether Windows Installer (MSI) processes are running or not. 💻🔍
 
