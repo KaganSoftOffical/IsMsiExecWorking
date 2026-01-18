@@ -13,4 +13,4 @@ It serves as a lightweight monitoring utility designed to provide immediate visu
 This Project Compiled with AutoHotKey 1.1.37
 
 ## Requirements
-- Windows 7 SP1+
+- Windows 7+
