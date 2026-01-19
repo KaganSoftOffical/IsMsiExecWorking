@@ -1,8 +1,9 @@
 ﻿#NoEnv
 #Persistent
 #Requires AutoHotkey v1.1.37
+
 SetTimer, CheckMsiexec, 1000
-systemVersion := "0.1.0"
+systemVersion := "0.1.1"
 
 Menu, Tray, NoStandard 
 Menu, Tray, Add, Kill Installation, KillMsiexec 
